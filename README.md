@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kevin</h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Currently, at the company I work for, my role involves developing and repairing programs for mass messaging on various platforms using VB.NET. In parallel, I work as a freelance web developer specializing in JavaScript. Additionally, I am also working on the development of a drawing program.**
+- I m currently working on **At the company I work for, my role involves developing and repairing programs for mass messaging on various platforms using VB.NET. In parallel, I work as a freelance web developer specializing in JavaScript. Additionally, I am also working on the development of a drawing program.**
 
 - I m currently learning **Python; Java**
 
